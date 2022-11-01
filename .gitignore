@@ -1,0 +1,4 @@
+**/*.env
+**/*.env.*
+**/*.~undo-tree~
+**/*.~undo-tree~.*

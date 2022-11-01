@@ -1,0 +1,8 @@
+go 1.18
+
+use (
+	./services/tests
+	/home/leo/dev/go/projects/coremeridian.xyz/pkg/coremnet
+	/home/leo/dev/go/projects/github.com/costal/tool/httpapp
+	/home/leo/dev/go/projects/github.com/costal/tool/middler
+)
